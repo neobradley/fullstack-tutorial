@@ -19,16 +19,6 @@
         欢迎志同道合的小伙伴加入开源小组：<a href="notes/开源贡献.md">⊱ 开源小组，英雄招募令</a>
     </p>
     <div>
-            <br/>
-    <p>
-      🎯🎯🎯
-    </p>
-    <p>
-      本仓库即将重构并出版，欢迎留言交流
-    </p>
-    <p>
-      <a href="https://github.com/frank-lam/fullstack-tutorial/issues/49">《全栈开发技术地图》出版进行中 · Issue #49</a>
-    </p>
   </div>
     <div>
         <br/>
@@ -63,7 +53,6 @@
             🎅 特别鸣谢共同完成两位小伙伴：<a href="https://github.com/dxiaoqi">@dxiaoqi</a> <a href="https://github.com/dzeze">@dzeze</a>
     </div>
 </div>
-
 
 
 
@@ -162,15 +151,20 @@
 <details>
 <summary>TODO LIST</summary>
 
-- HTML(5)
+- HTML5
 
-- CSS(3)
+- CSS3
 
-  sass、scss、stylus
+- CSS 预处理
+
+  - sass(scss)
+  - less
+  - stylus
 
 - CSS 框架
 
-  BootStarp、LayUI
+  - BootStarp
+  - LayUI
 
 - JavaScript 
 
@@ -179,7 +173,7 @@
 - JavaScript 框架
 
   - Vue
-  - React 
+  - React
   - Angular
   - jQuery
 
@@ -187,18 +181,28 @@
 
   常用 api、对象池、异常处理、进程通信、高并发
 
-- 静态编译
-  - Flow
-  - TypeScript
+- 静态类型检查
 
-- 打包工具
+  - TypeScript
+  - Flow
+
+- 构建/打包工具
+
   - webpack
-  - glup
+  - gulp
   - rollup
 
-- 工具
+- 包管理工具
+
   - npm
   - yarn
+  
+- 服务端渲染
+
+  - koa2
+  - express
+  - nuxt
+  - next
 
 </details>
 
@@ -450,7 +454,7 @@ Copyright (c) 2019-present, Frank Lam
     <p>
         在颠覆世界的同时，也要好好关照自己。
     </p>
-<a  target="_blank" href="https://zhuanlan.zhihu.com/frankfeekr" rel="nofollow"><a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/fullstack-tutorial/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/fullstack-tutorial/sponsors/badge.svg" /></a> <img src="https://img.shields.io/badge/知乎专栏-frankfeekr-blue.svg" alt="QQ群" data-canonical-src="" style="max-width:100%;"></a>
+<a  target="_blank" href="https://zhuanlan.zhihu.com/frankfeekr" rel="nofollow"><img src="https://img.shields.io/badge/知乎专栏-frankfeekr-blue.svg" alt="QQ群" data-canonical-src="" style="max-width:100%;"></a>
 <a target="_blank" href="https://frankfeekr.cn" rel="nofollow"><img src="https://img.shields.io/badge/BLOG-frankfeekr.cn-blue.svg" alt="BLOG" data-canonical-src="" style="max-width:100%;"></a>
 <a target="_blank" href="mailto:frank_lin@whu.edu.cn" rel="nofollow"><img src="https://img.shields.io/badge/Email-frank__lin@whu.edu.cn-lightgrey.svg" alt="邮箱" data-canonical-src="" style="max-width:100%;"></a>
 <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=593WvX0" rel="nofollow" ><img src="https://img.shields.io/badge/QQ群-862619503-green.svg" alt="QQ群" data-canonical-src="" style="max-width:100%;"></a>
